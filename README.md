@@ -1,3 +1,4 @@
+![SAFEKYClogoSmall](https://user-images.githubusercontent.com/103741461/163562507-785aa69e-5b3f-4448-b835-1cf7ede4577d.png)
 # SafeKYC - Part of SafeWages Ecosystem
 The SafeKYC process is one of the most robust yet affordable KYC checks available in crypto.
 Our service ensures the most rigorous and checks are completed with the aim of bringing trust and transparency to the investors.
